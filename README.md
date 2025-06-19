@@ -65,7 +65,7 @@ MoodLens is a deep learning-powered application that detects and classifies huma
     ```python output.py
 
 ## 📸 Output Example
-{temp.png}
+<img src="temp.png">
 
 ## 📝 Summary
 MoodLens is a facial emotion detection system that analyzes video footage, identifies human faces, and classifies their emotional state using a CNN model trained on the FER2013 dataset. It outputs an annotated video displaying the emotional mood of each person across frames.
