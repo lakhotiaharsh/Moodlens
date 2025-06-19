@@ -53,16 +53,21 @@ MoodLens is a deep learning-powered application that detects and classifies huma
    cd moodlens
 
 2. **Install Dependencies**
-    ```pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. **Train Model(Optional)**
-    ```python unzip.py
+    ```bash
+    python unzip.py
     python train.py
 
 ## 📦 Usage
 
-**Run Emotion Detection on a Video**
-    ```python output.py
+### **Run Emotion Detection on a Video**
+
+- To run the code use the following command
+  ```bash
+  python output.py
 
 ## 📸 Output Example
 <img src="temp.png">
